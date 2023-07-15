@@ -1,0 +1,24 @@
+Model:
+  online_input: 2000  #default
+  online_hidden: 256
+  online_output: 32
+  predictor: 32
+
+  target_input: 2000  #default
+  target_hidden: 256
+  target_output: 32
+
+
+
+  denoise: False
+  sigma: 2.0
+
+data_length : 
+device: 
+pre_lr: 0.002
+alt_lr: 0.001
+pre_epoches: 50
+alt_epoches: 50
+fit_epoches: 6
+lambda_1: 1.0
+lambda_2: 0.5
