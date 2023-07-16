@@ -22,9 +22,13 @@ We provided a example dataset:"Quake_10x_Bladder" in the <a herf="https://github
 # Requirement
 
 python >= 3.8
+
 pytorch  >=2.0.0
+
 h5py >=3.7.0
+
 scanpy >= 1.8.1
+
 sklearn >=1.0.2
 
 # Contributing
