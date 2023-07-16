@@ -1,6 +1,6 @@
 # PSCC
 -----
-Positive-Samples contrastive cluster （PSCC）: a deep learning model for Single Cell RNA-seq data cluster.
+Positive-Sample contrastive cluster （PSCC）: a deep learning model for Single Cell RNA-seq data cluster.The PSCC algorithm adopted a saimese contrastive learning network that learns and reinforces features using positive-sample data. We employ a zero-inflated negative binomial distribution model for denoising and dimensionality reduction of scRNA-seq data during feature learning. Moreover, we estimate and optimize the loss of Branch network contrastive learning and Spatial mapping learning to improve the PSCC method’s feature learning and reinforcement capabilities on scRNA-seq data.
 
 
 
