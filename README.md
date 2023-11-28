@@ -1,6 +1,6 @@
 # PSCC
 -----
-Positive-Sample contrastive cluster （PSCC）: a deep learning model for Single Cell RNA-seq data cluster.The PSCC algorithm adopted a saimese contrastive learning network that learns and reinforces features using positive-sample data. We employ a zero-inflated negative binomial distribution model for denoising and dimensionality reduction of scRNA-seq data during feature learning. Moreover, we estimate and optimize the loss of Branch network contrastive learning and Spatial mapping learning to improve the PSCC method’s feature learning and reinforcement capabilities on scRNA-seq data.
+Positive-Sample contrastive cluster （PSCC）: a deep learning model for Single Cell RNA-seq data cluster. The PSCC algorithm adopted a saimese contrastive learning network that learns and reinforces features using positive-sample data. We employ a zero-inflated negative binomial distribution model for denoising and dimensionality reduction of scRNA-seq data during feature learning. Moreover, we estimate and optimize the loss of Branch network contrastive learning and Spatial mapping learning to improve the PSCC method’s feature learning and reinforcement capabilities on scRNA-seq data.
 
 
 
@@ -16,7 +16,7 @@ The example dataset saved in the location  "/Example_data/Quake_10x_Bladder.h5" 
 
 # Quick start
 -----
-We provided a example dataset:"Quake_10x_Bladder" in the <a herf="https://github.com/FengCheng-Space/PSCC/tree/main/Example_data">folder as a defult datasets. You just run the following code in your command lines:
+We provided an example dataset:"Quake_10x_Bladder" in the <a herf="https://github.com/FengCheng-Space/PSCC/tree/main/Example_data">folder as a defult datasets. You just run the following code in your command lines:
 "python main.py"
 
 # Requirement
