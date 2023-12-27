@@ -32,6 +32,4 @@ scanpy >= 1.8.1
 
 sklearn >=1.0.2
 
-# Contributing
------
-Author email: fengcheng@stu.ahau.edu.cn
+
