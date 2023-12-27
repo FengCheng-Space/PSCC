@@ -11,7 +11,7 @@ The example dataset saved in the location  "/Example_data/Quake_10x_Bladder.h5" 
 # Architecture
 -----
 
-![model](https://github.com/FengCheng-Space/PSCC/blob/main/Architecture/PSCC_model.jpg)
+![model](https://github.com/FengCheng-Space/PSCC/blob/main/Architecture/Figure1.jpg)
 
 
 # Quick start
